@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Jettison this *jalopy* off *my driveway* **this instant** **_you deadbeat!_**
